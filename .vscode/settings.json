@@ -1,0 +1,4 @@
+{
+  "cmake.useCMakePresets": "auto",
+  "cmake.allowCommentsInPresetsFile": true
+}
